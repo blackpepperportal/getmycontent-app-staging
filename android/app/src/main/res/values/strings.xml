@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OnlyFans</string>
+    <!-- Have to change it -->
+    <string name="facebook_app_id">774610529812653</string>
+    <string name="fb_login_protocol_scheme">fb774610529812653</string>
+    <string name="server_client_id">709450100380-qgj5grrnnjaticreokjngcl2o8c1msqu.apps.googleusercontent.com</string>
+</resources>
